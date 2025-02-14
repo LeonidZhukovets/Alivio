@@ -55,7 +55,7 @@
 
 @media (max-width: 480px) {
     .card {
-        height: 700px;
+        height: 800px;
     }
 
     .card__title {
